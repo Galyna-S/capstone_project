@@ -6,4 +6,4 @@ matplotlib
 plotly.express
 scikit-learn
 sklearn
-plotly.express
+dash
