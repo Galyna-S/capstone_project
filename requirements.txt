@@ -1,3 +1,9 @@
 kagglehub
 pandas
 numpy
+seaborn
+matplotlib
+plotly.express
+scikit-learn
+sklearn
+plotly.express
