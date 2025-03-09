@@ -7,3 +7,4 @@ plotly.express
 scikit-learn
 sklearn
 dash
+geopandas
