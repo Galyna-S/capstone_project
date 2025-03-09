@@ -5,8 +5,10 @@ seaborn
 matplotlib
 plotly.express
 scikit-learn
-sklearn
 dash
 geopandas
 nbformat
 folium
+plotly
+pycountry
+geodatasets
