@@ -1,5 +1,5 @@
 # Global Intelligence Trends Analysis
-This analysis explores the global intelligence trends by examining various socio-economic indicators like IQ, Human Development Index (HDI), Gross National Income (GNI), literacy rates, and Nobel Prize achievements. By examining these variables, the goal is to identify patterns and correlations that could inform educational policy and economic development strategies. The project also compares global intelligence indicators over 20 years and makes a forecast of what these indicators will be in two decades.
+This analysis explores the global intelligence trends by examining various socio-economic indicators like IQ, Human Development Index (HDI), Gross National Income (GNI), literacy rates, and Nobel Prize achievements. By examining these variables, the goal is to identify patterns and correlations that could inform educational policy and economic development strategies. The project also compares global intelligence indicators over 20 years and makes a forecast of what these indicators will be in two decades. You can view the interactive dashboard on Tableau Public https://public.tableau.com/app/profile/galyna.studennikova/viz/Map_17417199821610/Dashboard1?publish=yes 
 
 ## Data Preparation & Cleanup
 Data Cleaning: Missing values in columns such as HDI, GNI, Mean Years of Schooling, and Population were handled using imputation techniques to ensure consistency in the dataset. Additionally, the "Population - 2023" column was formatted to ensure it's numeric for the subsequent analysis. A feature engineering attribute was created – HDI per capita.
@@ -70,3 +70,6 @@ The code generation and support was greatly assisted by AI tools (Chat GPT and P
 
 ## Conclusion
 This comprehensive analysis highlights key trends in global intelligence by examining the relationship between IQ and various socio-economic factors. The findings suggest that education, economic prosperity, and social development are closely linked to cognitive performance on a national scale. The insights provided can help policymakers, educators, and researchers target areas for improvement in education and socio-economic development.
+
+## Acknowledgements
+I sincerely thank my mentors for giving me the chance to be creative, grow, and for offering me a fresh start from scratch in life. 
